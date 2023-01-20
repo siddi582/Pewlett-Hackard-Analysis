@@ -44,7 +44,7 @@ Software:
 An entity-relationship diagram (ERD) is crucial to creating a good database design. It is used as a high-level logical data model, which is useful in developing a conceptual design for databases.
 
 <p align="center">  
-<img src="EmployeeDB.png" width="40%" height="40%">
+<img src="ERD/EmployeeDB.png" width="40%" height="40%">
 </p>
 <p align="center">  
 <i>Figure 1: ERD</i>
