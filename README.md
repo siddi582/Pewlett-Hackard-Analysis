@@ -159,7 +159,7 @@ To ensure that are enough qualified staff for training at Pewlett-Hackard I ran 
 :exclamation: Please see full report [here](Data/07_Extra_qualified_staff.csv) and SQL Queries [here](Queries/Employee_Database_challenge.sql) - **see Deliverable 3**.
 
 ## References
-(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 27 Aug 2020.
+(1) Module 7. Create Tables in SQL, https://courses.bootcampspot.com/courses/200/pages/7-dot-2-2-create-tables-in-sql?module_item_id=72739, Trilogy Education Services, 2000, Web 19 January 2023.
 
 ## Other Useful Articles
 
